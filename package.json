@@ -1,0 +1,31 @@
+{
+  "name": "react-webpack",
+  "version": "1.0.0",
+  "description": "study react webpack project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config build/webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenWes/react-webpack.git"
+  },
+  "keywords": [
+    "react",
+    "webpack"
+  ],
+  "author": "weschen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChenWes/react-webpack/issues"
+  },
+  "homepage": "https://github.com/ChenWes/react-webpack#readme",
+  "dependencies": {
+    "react": "^16.3.2",
+    "webpack": "^4.5.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.14"
+  }
+}
