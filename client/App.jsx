@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default () => <div>hi</div>
+export default () => <div>this is my application</div>
 
 // export default () => {
 //   return (
